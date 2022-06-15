@@ -1,0 +1,19 @@
+{
+    "name": "rik3sh/rb-file-manager",
+    "description": "A simple laravel package to manage files in either your public folder or s3 bucket.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rik3sh\\RbFileManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rikesh Bajracharya",
+            "email": "rikesh.bajracharya@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^6.24"
+    }
+}
