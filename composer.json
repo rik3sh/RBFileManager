@@ -12,5 +12,12 @@
             "name": "Rikesh Bajracharya",
             "email": "rikesh.bajracharya@gmail.com"
         }
-    ]
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "rik3sh\\RBFileManager\\FileManagerServiceProvider"
+            ]
+        }
+    }
 }
