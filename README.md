@@ -3,7 +3,7 @@
 Require this package with composer. It is recommended to only require the package for development.
 
 ```shell
-composer require barryvdh/laravel-debugbar --dev
+composer require rik3sh/rb-file-manager
 ```
 ### Laravel without auto-discovery:
 
